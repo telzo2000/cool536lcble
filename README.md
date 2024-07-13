@@ -28,9 +28,10 @@ https://github.com/telzo2000/cool536lcble/tree/main/firmware
 |6|チップ積層セラミックコンデンサー |1|100μF6.3V F 3216|[秋月電子](https://akizukidenshi.com/catalog/g/g102151/)|10個入り200円|
 |7|Swith socket<br>スイッチソケット|36|cherry MX互換|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で187円程度|
 |8|Diode<br>ダイオード|36|リードタイプでもSMDでも可|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
-|9|TopCase|1|3D Print|||
-|10|BottomCase|1|3D Print||
-|11|Switch Parts|1|3D Print||
+|9|Tadpole|6|代用品募集中|[Geon Works](https://geon.works/products/tadpole?variant=42514434752675)|14個で６ドルまたは200個で45ドル（送料55ドル!）|
+|10|TopCase|1|3D Print|||
+|11|BottomCase|1|3D Print||
+|12|Switch Parts|1|3D Print||
 
 
 In addition, you will need a USB cable, keycaps, etc.
