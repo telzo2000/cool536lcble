@@ -34,7 +34,7 @@ Please pay attention to the orientation of the diode.
 ダイオードの向きに注意してください。
 <br>
 
-![](img/img00003.jpg)
+![](img/img00002.jpg)
 
 
 Secure the diode with masking tape, then face up.
@@ -50,7 +50,7 @@ After soldering, use nippers to cut off the protruding legs.
 はんだ付けが終わったら、はみ出ている足をニッパーで切り取ってください。
 <br>
 
-![](img/img00006.jpg)
+![](img/img00002.jpg)
 
 [８倍速　Diodeハンダ付け動画](https://youtu.be/Yaodh2-XxV4)
 
@@ -65,13 +65,18 @@ Solder the switch sockets on the back side.
 裏面にスイッチソケットのハンダ付けをします。
 <br>
 
+![](img/img00003.jpg)
+
+
+
 [８倍速　Switch socketハンダ付け動画](https://youtu.be/E__mHvmIXQo)
 
 <br><br>
 
 ### 3 Soldering the capacitor
 
-![](img/img00007.jpg)
+![](img/img00010.jpg)
+
 
 Solder the [capacitor](https://akizukidenshi.com/catalog/g/gP-02151/).
 <br>
@@ -83,8 +88,6 @@ First, apply solder to the terminal on one side. Then, place the capacitor, melt
 最初に、片側の端子にハンダを盛ります。そして、コンデサーを置き、ハンダを溶かして、固定します。
 <br>
 
-![](img/img00008.jpg)
-
 Next, melt and pour solder into the other terminal and attach the capacitor. Please fix it.
 <br>
 次に、もう片側の端子にハンダを溶かして、流し込んで、コンデンサーを。固定してください。
@@ -93,16 +96,11 @@ Next, melt and pour solder into the other terminal and attach the capacitor. Ple
 
 ### 4 Soldering the slide switch
 
-![](img/img00009.jpg)
 
 Insert the [slide switch](https://shop.yushakobo.jp/products/5624?variant=45044666007783) from the back side of the PCB and solder the front side. Please remove the protruding legs.
 <br>
 [スライドスイッチ](https://shop.yushakobo.jp/products/5624?variant=45044666007783)はPCBの裏面から挿入して、表面をハンダ付けします。はみ出た足は、切り取ってください。
 <br>
-
-![](img/img00010.jpg)
-
-![](img/img00011.jpg)
 
 
 ### 5 Soldering the battery case
@@ -185,20 +183,34 @@ Due to the characteristics of 3D printed matter, the top case and bottom case ma
 Insert the 4 Tadpoles into the 4 locations on the switch plate from below. Also, insert two Tadpoles into the bottom case from above in two places.
 <br>
 Tadpole４個をスイッチプレートの４箇所に、下から差し込みます。また、Tadpole２個を、ボトムケースの２箇所に上から差し込みます。
+
+![](img/img00004.jpg)
+
+![](img/img00005.jpg)
+
+![](img/img00006.jpg)
 <br>
 <br>
 Insert the switch knob into the recessed part in front of the bottom case.
 <br>
 ボトムケース手前の凹部分に、スイッチノブを挟みます。
+
+![](img/img00007.jpg)
+
+![](img/img00008.jpg)
+
 <br>
 <br>
 Insert the switch plate and PCB between the top case and bottom case, secure them with magnets, and you're done.
 <br>
 トップケースとボトムケースの間にスイッチプレートとPCBを挟み込むように入れて、磁石で固定すれば完成です。
+
+![](img/img00009.jpg)
+
 <br>
 
-Welcome to the world of 38 keys.
+Welcome to the world of 36 keys.
 <br>
-38キーの世界へようこそ。
+36キーの世界へようこそ。
 <br>
-![](img/img00022.jpg)
+![](img/img00011.jpg)
