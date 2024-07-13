@@ -10,6 +10,8 @@ The cool536lc key layout has been revised to create a 36-key keyboard that can b
 
 ## firmware
 
+https://github.com/telzo2000/cool536lcble/tree/main/firmware
+
  cool536lc run QMK_firmware,use BLE Micro Pro.
 
 ## Parts list
