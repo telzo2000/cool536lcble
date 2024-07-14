@@ -158,6 +158,13 @@ CR1632電池を電池ボックスに挿入してください。
 
 ### 9 Firmware
 
+The explanation is posted [here](https://sizu.me/m_ki/posts/x1mh846sx3zd).
+
+<br>
+
+[ここ](https://sizu.me/m_ki/posts/x1mh846sx3zd)に説明を載せています。
+<br><br>
+
 "6 Installing QMK_Firmware on Ble Micro pro" from [this site](https://github.com/telzo2000/cool836qalble/blob/main/build_guide_cool836qalble.md). please refer.
 <br>
 [このサイト](https://github.com/telzo2000/cool836qalble/blob/main/build_guide_cool836qalble.md)の「6 Instorlling QMK＿Firmware on Ble Micro pro」を。参考にしてください。
