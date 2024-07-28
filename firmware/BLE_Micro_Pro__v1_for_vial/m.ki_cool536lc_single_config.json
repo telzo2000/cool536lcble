@@ -1,0 +1,65 @@
+{
+    "config": {
+        "version": 2,
+        "device_info": {
+            "vid": "0x4D43",
+            "pid": "0x1536",
+            "name": "cool536lc",
+            "manufacture": "m.ki"
+        },
+        "matrix": {
+            "rows": 4,
+            "cols": 10,
+            "layer": 8,
+            "device_rows": 4,
+            "device_cols": 10,
+            "debounce": 1,
+            "is_left_hand": 1,
+            "diode_direction": 0,
+            "row_pins": [
+                10,
+                11,
+                14,
+                15
+            ],
+            "col_pins": [
+                20,
+                19,
+                18,
+                17,
+                16,
+                9,
+                8,
+                7,
+                6,
+                5
+            ]
+        },
+        "mode": "SINGLE",
+        "startup": 1,
+        "peripheral": {
+            "max_interval": 30,
+            "min_interval": 30,
+            "slave_latency": 16
+        },
+        "central": {
+            "max_interval": 30,
+            "min_interval": 30,
+            "slave_latency": 0
+        },
+        "led": {
+            "pin": 255,
+            "num": 0
+        },
+        "reserved": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+}
