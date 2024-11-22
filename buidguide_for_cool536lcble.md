@@ -94,6 +94,8 @@ Next, melt and pour solder into the other terminal and attach the capacitor. Ple
 <br>
 <br>
 
+[コンデンサのはんだ付け作業の動画](https://youtu.be/8CFiDMtg21s)
+
 ### 4 Soldering the slide switch
 
 
@@ -102,6 +104,8 @@ Insert the [slide switch](https://shop.yushakobo.jp/products/5624?variant=450446
 [スライドスイッチ](https://shop.yushakobo.jp/products/5624?variant=45044666007783)はPCBの裏面から挿入して、表面をハンダ付けします。はみ出た足は、切り取ってください。
 <br>
 
+
+[スライドスイッチのはんだ付けの作業動画](https://youtu.be/5nkRklibay4)
 
 ### 5 Soldering the battery case
 
@@ -126,6 +130,10 @@ Actually, it's not necessary. If you are an cool536lcble and are trying to insta
 <br>
 
 ![](img/img00016.jpg)
+
+
+[リセットスイッチのはんだ付けの作業動画](https://youtu.be/Pl24Exfh8b8)
+
 
 ### 7 Ble Micro Pro
 
